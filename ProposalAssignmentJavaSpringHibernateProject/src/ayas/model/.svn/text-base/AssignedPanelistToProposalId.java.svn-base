@@ -1,0 +1,55 @@
+/*
+ * To change this template, choose Tools | Templates
+ * and open the template in the editor.
+ */
+
+package ayas.model;
+
+import java.io.Serializable;
+
+/**
+ *
+ * @author abdullah
+ */
+public class AssignedPanelistToProposalId implements Serializable{
+
+    private AssignedProposal assignedProposal;
+    private AssignedPanelist assignedPanelist;
+
+    public AssignedPanelistToProposalId() {
+    }
+
+    public AssignedPanelistToProposalId(Integer recordId, Integer assignmentId) {
+        this.assignedProposal = new AssignedProposal(recordId);
+        this.assignedPanelist = new AssignedPanelist(assignmentId);
+    }
+
+    /**
+     * @return the assignedProposal
+     */
+    public AssignedProposal getAssignedProposal() {
+        return assignedProposal;
+    }
+
+    /**
+     * @param assignedProposal the assignedProposal to set
+     */
+    public void setAssignedProposal(AssignedProposal assignedProposal) {
+        this.assignedProposal = assignedProposal;
+    }
+
+    /**
+     * @return the assignedPanelist
+     */
+    public AssignedPanelist getAssignedPanelist() {
+        return assignedPanelist;
+    }
+
+    /**
+     * @param assignedPanelist the assignedPanelist to set
+     */
+    public void setAssignedPanelist(AssignedPanelist assignedPanelist) {
+        this.assignedPanelist = assignedPanelist;
+    }
+
+}

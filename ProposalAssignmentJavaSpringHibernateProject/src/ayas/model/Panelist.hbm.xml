@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE hibernate-mapping PUBLIC "-//Hibernate/Hibernate Mapping DTD 3.0//EN" "http://hibernate.sourceforge.net/hibernate-mapping-3.0.dtd">
+<hibernate-mapping>
+  <class name="ayas.model.Panelist" schema="AYASDB" table="PANELIST">
+    <id column="ID" name="id">
+      <generator class="assigned"/>
+    </id>
+    <property column="NAME" name="name"/>
+    <property column="SURNAME" name="surname"/>
+    <property column="COMPANY_ID" name="company_id"/>
+    <property column="TITLE_ID" name="title_id"/>
+    <property column="SUBJECT_ID" name="subject_id"/>
+  </class>
+</hibernate-mapping>

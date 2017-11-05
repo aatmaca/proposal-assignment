@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/AyasProject/!svn/ver/15/AyasProject/src/java/ayas/util
+END
+StringUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/AyasProject/!svn/ver/2/AyasProject/src/java/ayas/util/StringUtils.java
+END
+SessionData.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/AyasProject/!svn/ver/15/AyasProject/src/java/ayas/util/SessionData.java
+END
+Constants.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/AyasProject/!svn/ver/2/AyasProject/src/java/ayas/util/Constants.java
+END
+EmailUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/AyasProject/!svn/ver/10/AyasProject/src/java/ayas/util/EmailUtil.java
+END
+AyasUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/AyasProject/!svn/ver/2/AyasProject/src/java/ayas/util/AyasUtil.java
+END
+SerialClone.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/AyasProject/!svn/ver/2/AyasProject/src/java/ayas/util/SerialClone.java
+END
+ExcelUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/AyasProject/!svn/ver/2/AyasProject/src/java/ayas/util/ExcelUtil.java
+END
+ScreenshotUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/AyasProject/!svn/ver/2/AyasProject/src/java/ayas/util/ScreenshotUtil.java
+END
+RtfUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/AyasProject/!svn/ver/2/AyasProject/src/java/ayas/util/RtfUtil.java
+END
+ResponseOutputStreamUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/AyasProject/!svn/ver/2/AyasProject/src/java/ayas/util/ResponseOutputStreamUtil.java
+END
+DateUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/AyasProject/!svn/ver/2/AyasProject/src/java/ayas/util/DateUtils.java
+END

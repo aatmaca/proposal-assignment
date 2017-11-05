@@ -1,0 +1,155 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/AyasProject/!svn/ver/24/AyasProject/src/java/ayas/model
+END
+Proposal.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/AyasProject/!svn/ver/2/AyasProject/src/java/ayas/model/Proposal.hbm.xml
+END
+AssignedPanelist.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/AyasProject/!svn/ver/2/AyasProject/src/java/ayas/model/AssignedPanelist.hbm.xml
+END
+Subject.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/AyasProject/!svn/ver/2/AyasProject/src/java/ayas/model/Subject.java
+END
+User.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/AyasProject/!svn/ver/2/AyasProject/src/java/ayas/model/User.java
+END
+Title.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/AyasProject/!svn/ver/2/AyasProject/src/java/ayas/model/Title.hbm.xml
+END
+PanelistStatus.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/AyasProject/!svn/ver/2/AyasProject/src/java/ayas/model/PanelistStatus.hbm.xml
+END
+Referee_Search.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/AyasProject/!svn/ver/2/AyasProject/src/java/ayas/model/Referee_Search.java
+END
+Panelist.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/AyasProject/!svn/ver/12/AyasProject/src/java/ayas/model/Panelist.java
+END
+Company.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/AyasProject/!svn/ver/2/AyasProject/src/java/ayas/model/Company.hbm.xml
+END
+Panel.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/AyasProject/!svn/ver/2/AyasProject/src/java/ayas/model/Panel.java
+END
+AssignedProposal.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/AyasProject/!svn/ver/2/AyasProject/src/java/ayas/model/AssignedProposal.hbm.xml
+END
+AssignedPanelistToProposal.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/AyasProject/!svn/ver/2/AyasProject/src/java/ayas/model/AssignedPanelistToProposal.hbm.xml
+END
+AssignedPanelistToProposal.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/AyasProject/!svn/ver/2/AyasProject/src/java/ayas/model/AssignedPanelistToProposal.java
+END
+AssignedProposal.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/AyasProject/!svn/ver/24/AyasProject/src/java/ayas/model/AssignedProposal.java
+END
+Panel.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/AyasProject/!svn/ver/2/AyasProject/src/java/ayas/model/Panel.hbm.xml
+END
+Company.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/AyasProject/!svn/ver/2/AyasProject/src/java/ayas/model/Company.java
+END
+Panelist.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/AyasProject/!svn/ver/2/AyasProject/src/java/ayas/model/Panelist.hbm.xml
+END
+AssignedPanelistToProposalId.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/AyasProject/!svn/ver/2/AyasProject/src/java/ayas/model/AssignedPanelistToProposalId.java
+END
+Referee_Search.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/AyasProject/!svn/ver/2/AyasProject/src/java/ayas/model/Referee_Search.hbm.xml
+END
+Title.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/AyasProject/!svn/ver/2/AyasProject/src/java/ayas/model/Title.java
+END
+PanelistStatus.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/AyasProject/!svn/ver/2/AyasProject/src/java/ayas/model/PanelistStatus.java
+END
+User.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/AyasProject/!svn/ver/2/AyasProject/src/java/ayas/model/User.hbm.xml
+END
+Subject.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/AyasProject/!svn/ver/2/AyasProject/src/java/ayas/model/Subject.hbm.xml
+END
+AssignedPanelist.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/AyasProject/!svn/ver/14/AyasProject/src/java/ayas/model/AssignedPanelist.java
+END
+Proposal.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/AyasProject/!svn/ver/2/AyasProject/src/java/ayas/model/Proposal.java
+END

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE hibernate-mapping PUBLIC "-//Hibernate/Hibernate Mapping DTD 3.0//EN" "http://hibernate.sourceforge.net/hibernate-mapping-3.0.dtd">
+<hibernate-mapping>
+  <class name="ayas.model.AssignedProposal" schema="AYASDB" table="ASSIGNED_PROPOSAL">
+    <id column="RECORD_ID" name="recordId">
+      <generator class="sequence">
+        <param name="sequence">RECORD_SEQ</param>
+      </generator>
+    </id>
+    <property column="PANEL_ID" name="panelId"/>
+    <property column="PROVISION" name="provision"/>
+    <property column="PROPOSAL_ID" name="proposalId"/>
+    <many-to-one class="ayas.model.Proposal" column="PROPOSAL_ID" lazy="false" name="proposal" insert="false" update="false"/>
+  </class>
+</hibernate-mapping>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE hibernate-mapping PUBLIC "-//Hibernate/Hibernate Mapping DTD 3.0//EN" "http://hibernate.sourceforge.net/hibernate-mapping-3.0.dtd">
+<hibernate-mapping>
+  <class name="ayas.model.AssignedPanelistToProposal" schema="AYASDB" table="ASG_PANELISTS_TO_PROPOSALS">
+    <composite-id class="ayas.model.AssignedPanelistToProposalId" name="panelistToProposalId">
+      <key-many-to-one class="ayas.model.AssignedProposal" column="RECORD_ID" lazy="false" name="assignedProposal"/>
+      <key-many-to-one class="ayas.model.AssignedPanelist" column="ASSIGNMENT_ID" lazy="false" name="assignedPanelist"/>
+    </composite-id>
+    <property column="STATUS" name="status"/>
+    <property column="GRADE" name="grade"/>
+  </class>
+</hibernate-mapping>
